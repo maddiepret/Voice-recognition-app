@@ -1,0 +1,13 @@
+.talk {
+    background-color: blueviolet;
+    height: 30vh;
+    width: 50vw;
+    padding: 20px;
+    font-size: 1.9rem;
+    color: cornsilk;
+}
+
+.talk:hover {
+    background-color: darkblue;
+    color: darkgrey;
+}
